@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1439942170 source:c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\ch1\cpu.c
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+
+1439942020 c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\ch1\common.h
+	<sys/time.h>
+	<assert.h>
+	<pthread.h>
+
+1439988414 source:c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\ch1\mem.c
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+
