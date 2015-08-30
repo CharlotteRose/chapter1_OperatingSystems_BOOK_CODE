@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1440881252 source:c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\polymorphisim\main.cpp
+	"polygon.h"
+	"rectangle.h"
+	"triangle.h"
+	<iostream>
+
+1440881605 c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\polymorphisim\include\polygon.h
+
+1440881454 c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\polymorphisim\include\rectangle.h
+	"polygon.h"
+
+1440881487 c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\polymorphisim\include\triangle.h
+	"polygon.h"
+
+1440881329 source:c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\polymorphisim\src\polygon.cpp
+	"polygon.h"
+
+1440881471 source:c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\polymorphisim\src\rectangle.cpp
+	"rectangle.h"
+
+1440881499 source:c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\polymorphisim\src\triangle.cpp
+	"triangle.h"
+
