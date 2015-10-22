@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1443062555 source:c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\example\main.c
+
+1443063173 source:c:\users\cheech wife\desktop\fall 2015\cs361\ch1\chapter1_operatingsystems_book_code\example\main.cpp
+	<iostream>
+	<string>
+
